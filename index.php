@@ -32,6 +32,9 @@ h2 {
 <a href="searchsjaccard1.php">Jaccard1</a> |
 <a href="searchsjaccard2.php">Jaccard2</a> |
 <a href="searchsjaccard3.php">Jaccard3</a> |
+<a href="searchsdriverkroeber1.php">DriverKroeber1</a> |
+<a href="searchsdriverkroeber2.php">DriverKroeber2</a> |
+<a href="searchsdriverkroeber3.php">DriverKroeber3</a> |
 </div>
 <hr/>
 </body>
