@@ -11,6 +11,7 @@ h2 {
 </head>
 <body>
 <h2 align=center><br>Sistem Temu Kembali Informasi<br><br></h2>
+<h4 align=center><br>Roni Ardiyanto - No 42. Driver & Kroeber<br><br></h2>
 <hr>
 <div align=center>
 | <a href="koneksi.php">Koneksi</a> |
